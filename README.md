@@ -1,4 +1,4 @@
-# Flatdango Movie Theater Web Application
+# Expense tracker
 
 Expense Tracker is a web application that allows users to manage expenses
 
