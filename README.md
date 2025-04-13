@@ -4,6 +4,8 @@ Expense Tracker is a web application that allows users to manage expenses
 
 ## live link
 
+expense-tracker-omega-bay-55.vercel.app
+
 ## Engineer
 
 Elvis Amonde (https://nyanja1.github.io/my-project/)
@@ -75,4 +77,5 @@ npm run dev
 6. Create a new Pull Request.
 
 ## Jibambee!
- 12
+
+12
