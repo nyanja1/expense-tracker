@@ -1,0 +1,46 @@
+h2{
+color: #f01414;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 24px;
+}
+
+.expense-form {
+  background: #e6d2d2;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.form-group{
+   margin-bottom: 15px; 
+
+}
+
+.form-group label{
+    display: block;
+    margin-bottom: 5px;
+
+
+}
+
+.form-group input{
+    width: 100%;
+    padding:8px
+    border: 1px
+    border-radius :4px;
+}
+
+.expense-form button{
+    background: #28a745;
+    color: green;
+    padding:10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+}
+
+.expense-form button:hover{
+    background: #f01414;
+}

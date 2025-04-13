@@ -1,0 +1,22 @@
+.expense-table{
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(red, green, blue, alpha);
+}
+
+.expense-table td{
+    padding:12px
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.expense-tabele th{
+    background: #f8f9;
+    font-weight: bolder;
+}
+
+.expense-table p{
+    text-align: center;
+    color: #666;
+}
