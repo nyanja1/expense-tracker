@@ -26,7 +26,7 @@ function App() {
           id="search"
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
-          placeholder="Enter description..."
+          placeholder="Eleza."
         />
       </div>
       <ExpenseTable expenses={filteredExpenses} />
